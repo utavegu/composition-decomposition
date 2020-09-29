@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+/** Компоненты апплетов, выполняющих различные задачи */
 function Applet(props) {
   const {heading, description} = props.appletsData;
 

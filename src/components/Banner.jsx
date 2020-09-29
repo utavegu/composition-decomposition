@@ -1,5 +1,6 @@
 import React from 'react'
 
+/** Компонент с рекламным баннером */
 function Banner() {
   return (
       <a href="">

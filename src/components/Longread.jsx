@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+/** Компонент со "статьёй дня" */
 function Longread({image, width, height, alternative, heading, description}) {
   return (
     <React.Fragment>

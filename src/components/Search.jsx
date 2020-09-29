@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import {nanoid} from 'nanoid';
 
+/** Компонент поиска */
 function Search({searchCategoriesData}) {
   return (
     <div>

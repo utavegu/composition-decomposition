@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import {nanoid} from 'nanoid';
 
+/** Компонент с курсами валют */
 function ExchangeRate({exchangeData}) {
   return (
     <div className="news__exchange">
